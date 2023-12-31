@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/iks/RiderProjects/TabTimeleft/TabTimeleft/TabTimeleft.csproj": {}
+  },
+  "projects": {
+    "/home/iks/RiderProjects/TabTimeleft/TabTimeleft/TabTimeleft.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/iks/RiderProjects/TabTimeleft/TabTimeleft/TabTimeleft.csproj",
+        "projectName": "TabTimeleft",
+        "projectPath": "/home/iks/RiderProjects/TabTimeleft/TabTimeleft/TabTimeleft.csproj",
+        "packagesPath": "/home/iks/.nuget/packages/",
+        "outputPath": "/home/iks/RiderProjects/TabTimeleft/TabTimeleft/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/iks/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "CounterStrikeSharp.API": {
+              "target": "Package",
+              "version": "[1.0.142, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

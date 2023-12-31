@@ -1,0 +1,12 @@
+/home/iks/RiderProjects/TabTimeleft/TabTimeleft/bin/Debug/net7.0/TabTimeleft.deps.json
+/home/iks/RiderProjects/TabTimeleft/TabTimeleft/bin/Debug/net7.0/TabTimeleft.dll
+/home/iks/RiderProjects/TabTimeleft/TabTimeleft/bin/Debug/net7.0/TabTimeleft.pdb
+/home/iks/RiderProjects/TabTimeleft/TabTimeleft/obj/Debug/net7.0/TabTimeleft.csproj.AssemblyReference.cache
+/home/iks/RiderProjects/TabTimeleft/TabTimeleft/obj/Debug/net7.0/TabTimeleft.GeneratedMSBuildEditorConfig.editorconfig
+/home/iks/RiderProjects/TabTimeleft/TabTimeleft/obj/Debug/net7.0/TabTimeleft.AssemblyInfoInputs.cache
+/home/iks/RiderProjects/TabTimeleft/TabTimeleft/obj/Debug/net7.0/TabTimeleft.AssemblyInfo.cs
+/home/iks/RiderProjects/TabTimeleft/TabTimeleft/obj/Debug/net7.0/TabTimeleft.csproj.CoreCompileInputs.cache
+/home/iks/RiderProjects/TabTimeleft/TabTimeleft/obj/Debug/net7.0/TabTimeleft.dll
+/home/iks/RiderProjects/TabTimeleft/TabTimeleft/obj/Debug/net7.0/refint/TabTimeleft.dll
+/home/iks/RiderProjects/TabTimeleft/TabTimeleft/obj/Debug/net7.0/TabTimeleft.pdb
+/home/iks/RiderProjects/TabTimeleft/TabTimeleft/obj/Debug/net7.0/ref/TabTimeleft.dll
